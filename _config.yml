@@ -38,14 +38,14 @@ roles:
 
 #Education is required
 education:
+- level: Grocery Clerk
+   date: 2016
+   subject: Publix Supermarkets
+   school:
  - level: Bachelor of Science (B.Sc.)
    date: 2021
    subject: Software Development
    school: Georgia Gwinnett College
- - level: Grocery Clerk
-   date: 2019
-   subject: Publix Supermarkets
-   school: 
 
 #This section is optional (as is the image link below)
 #coursera:
@@ -74,7 +74,7 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - sushisalad/P3DPGE
+ - SushiSalad/P3DPGE
  - SushiSalad/SMLabs
  - dellevelled/Rexaras5
  - DelleVelleD/Scheduler
@@ -90,7 +90,7 @@ github:
 intro: |
   I am Christopher (Caj) Jones, a senior at Georgia Gwinnett College majoring in Computer Science with a focus in software design and a passion for game development.<br/><br/>
   I enjoy working on the projects that deal with building gameplay or engine functionality for games, but I also have a passion for building tools to be used by designers/artists.<br/><br/>
-  I have worked on small projects either alone, with a partner, or a small group of friends and I am currently focused on a 3D game engine, <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games on in the future.<br/><br/>
+  I have worked on small projects either alone, with a partner, or a small group of friends and I am currently focused on a 3D game engine, <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games on in the future.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
@@ -100,4 +100,4 @@ additionalinfo: |
    <strong>AI Development</strong>: I have been working on a needs-based AI approach to game AI in my project <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras</a> in order to let AI make decisions that seem realistic.<br/><br/>
    <strong>Python</strong>: I have used Python for tool development when I was helping the Nier:Automata modding community in order to build a plugin for Blender which allowed for the importing/exporting of character models and animations.<br/><br/>
    <strong>Java</strong>: I learned Java all throughout school and this was the main language I started on for personal projects. Other than website projects, all other classes I took used Java.<br/><br/>
-   <strong>Mean Stack</strong>: My team in my Software Development 1 course used the MEAN stack to develop a website and service for the professors at our college to register for courses they wished to take. <a href="https://ggc-scheduler.herokuapp.com/login-page" target="_blank">Scheduler</a><br/><br/>
+   <strong>Mean Stack</strong>: My team in my Software Development 1 course used the MEAN stack to develop a website and service for the professors at our college to register for courses they wished to take. <a href="https://ggc-scheduler.herokuapp.com/login-page" target="_blank">Scheduler</a>

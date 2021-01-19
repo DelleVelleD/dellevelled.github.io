@@ -37,15 +37,15 @@ skills:
 #Work experience is required
 roles:
 - title: Student
-   start: 2019
-   end: Ongoing
-   employer: Focused on personal projects
-   description: 
- - title: Grocery Clerk
-   start: 2016
-   end: 2019
-   employer: Publix Supermarkets
-   description: 
+  start: 2019
+  end: Ongoing
+  employer: Focused on personal projects
+  description: 
+- title: Grocery Clerk
+  start: 2016
+  end: 2019
+  employer: Publix Supermarkets
+  description: 
 
 #Education is required
 education:

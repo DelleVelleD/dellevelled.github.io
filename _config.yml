@@ -34,18 +34,14 @@ skills:
 
 #Work experience is required
 roles:
-- title: Bachelor of Science (B.Sc.)
-  start: 2016
-  end: 2021
-  employer: Software Development
-  description: Georgia Gwinnett College
+
 
 #Education is required
 education:
-# - level: Bachelor of Science (B.Sc.)
-#   date: 2021
-#   subject: Software Development
-#   school: Georgia Gwinnett College
+ - level: Bachelor of Science (B.Sc.)
+   date: 2021
+   subject: Software Development
+   school: Georgia Gwinnett College
  - level: Grocery Clerk
    date: 2019
    subject: Publix Supermarkets
@@ -92,16 +88,16 @@ github:
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am Christopher (Caj) Jones, a senior at Georgia Gwinnett College majoring in Computer Science with a focus in software design and a passion for game development.
-  I enjoy working on the projects that deal with building gameplay or engine functionality for games, but I also have a passion for building tools to be used by designers/artists.
-  I have worked on small projects either alone, with a partner, or a small group of friends and I am currently focused on a 3D game engine, <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games on in the future.
+  I am Christopher (Caj) Jones, a senior at Georgia Gwinnett College majoring in Computer Science with a focus in software design and a passion for game development.<br/><br/>
+  I enjoy working on the projects that deal with building gameplay or engine functionality for games, but I also have a passion for building tools to be used by designers/artists.<br/><br/>
+  I have worked on small projects either alone, with a partner, or a small group of friends and I am currently focused on a 3D game engine, <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games on in the future.<br/><br/>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>C++</strong>: I primarily use C++ in my current projects for everything from engine programming to AI development.
-   <strong>Engine Programming</strong>: A friend and I have been developing a 3D physics engine on top of the <a href="https://github.com/OneLoneCoder/olcPixelGameEngine" target="_blank">PixelGameEngine</a> in C++ in order to learn 3D topics such as rendering, lighting, shaders, and physics.
-   <strong>Gameplay Programming</strong>: Using Unreal Engine, a friend and I are building a networked game with a focus on fast-paced air-strafing movement and simple character abilities. Additionally, I have worked on 2D map generation in Unity using the maze backtracing algorithm when working on DungeonExplorer, a small Pac-Man like game.
-   <strong>AI Development</strong>: I have been working on a needs-based AI approach to game AI in my project <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras</a> in order to let AI make decisions that seem realistic.
-   <strong>Python</strong>: I have used Python for tool development when I was helping the Nier:Automata modding community in order to build a plugin for Blender which allowed for the importing/exporting of character models and animations.
-   <strong>Java</strong>: I learned Java all throughout school and this was the main language I started on for personal projects. Other than website projects, all other classes I took used Java.
-   <strong>Mean Stack</strong>: My team in my Software Development 1 course used the MEAN stack to develop a website and service for the professors at our college to register for courses they wished to take. <a href="https://ggc-scheduler.herokuapp.com/login-page" target="_blank">Scheduler</a>
+   <strong>Engine Programming</strong>: A friend and I have been developing a 3D physics engine on top of the <a href="https://github.com/OneLoneCoder/olcPixelGameEngine" target="_blank">PixelGameEngine</a> in C++ in order to learn 3D topics such as rendering, lighting, shaders, and physics.<br/><br/>
+   <strong>Gameplay Programming</strong>: Using Unreal Engine, a friend and I are building a networked game with a focus on fast-paced air-strafing movement and simple character abilities. Additionally, I have worked on 2D map generation in Unity using the maze backtracing algorithm when working on DungeonExplorer, a small Pac-Man like game.<br/><br/>
+   <strong>AI Development</strong>: I have been working on a needs-based AI approach to game AI in my project <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras</a> in order to let AI make decisions that seem realistic.<br/><br/>
+   <strong>Python</strong>: I have used Python for tool development when I was helping the Nier:Automata modding community in order to build a plugin for Blender which allowed for the importing/exporting of character models and animations.<br/><br/>
+   <strong>Java</strong>: I learned Java all throughout school and this was the main language I started on for personal projects. Other than website projects, all other classes I took used Java.<br/><br/>
+   <strong>Mean Stack</strong>: My team in my Software Development 1 course used the MEAN stack to develop a website and service for the professors at our college to register for courses they wished to take. <a href="https://ggc-scheduler.herokuapp.com/login-page" target="_blank">Scheduler</a><br/><br/>

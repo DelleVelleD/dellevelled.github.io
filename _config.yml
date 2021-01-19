@@ -43,13 +43,13 @@ roles:
 #Education is required
 education:
 - level: Grocery Clerk
-   date: 2016
-   subject: Publix Supermarkets
-   school:
- - level: Bachelor of Science (B.Sc.)
-   date: 2021
-   subject: Software Development
-   school: Georgia Gwinnett College
+  date: 2016
+  subject: Publix Supermarkets
+  school:
+- level: Bachelor of Science (B.Sc.)
+  date: 2021
+  subject: Software Development
+  school: Georgia Gwinnett College
 
 #This section is optional (as is the image link below)
 #coursera:

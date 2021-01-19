@@ -9,14 +9,12 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/DelleVelleD
  - title: LinkedIn
    url: https://www.linkedin.com/in/christopher-jones-86b694178/
- - title: Food
-   url: https://www.robbishfood.com/
+ - title: Email
+   url: delle.caj@gmail.com
 
 #Any buzzword skills you want to include
 skills:
@@ -36,23 +34,22 @@ skills:
 
 #Work experience is required
 roles:
-- title: Student
-  start: 2019
-  end: Ongoing
-  employer: Focused on personal projects
-  description: 
-- title: Grocery Clerk
+- title: Bachelor of Science (B.Sc.)
   start: 2016
-  end: 2019
-  employer: Publix Supermarkets
-  description: 
+  end: 2021
+  employer: Software Development
+  description: Georgia Gwinnett College
 
 #Education is required
 education:
- - level: Bachelor of Science in Information Technology (B.Sc.)
-   date: 2021
-   subject: Software Development
-   school: Georgia Gwinnett College
+# - level: Bachelor of Science (B.Sc.)
+#   date: 2021
+#   subject: Software Development
+#   school: Georgia Gwinnett College
+ - level: Grocery Clerk
+   date: 2019
+   subject: Publix Supermarkets
+   school: 
 
 #This section is optional (as is the image link below)
 #coursera:
@@ -81,9 +78,9 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - SushiSalad/P3DPGE
+ - sushisalad/P3DPGE
  - SushiSalad/SMLabs
- - DelleVelleD/Rexaras5
+ - dellevelled/Rexaras5
  - DelleVelleD/Scheduler
  - supersand24/DungeonExplorer
  - DelleVelleD/ColoredBlocks
@@ -95,9 +92,9 @@ github:
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am Christopher Jones, a senior at Georgia Gwinnett College majoring in Computer Science with a focus in software design and a passion for game development.
+  I am Christopher (Caj) Jones, a senior at Georgia Gwinnett College majoring in Computer Science with a focus in software design and a passion for game development.
   I enjoy working on the projects that deal with building gameplay or engine functionality for games, but I also have a passion for building tools to be used by designers/artists.
-  I have worked on small projects either alone, with a partner, or a small group of friends and I am currently focused on a 3D game engine, <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE</a>, that myself and a friend are co-developing to learn deep engine knowledge as well as build games on in the future.
+  I have worked on small projects either alone, with a partner, or a small group of friends and I am currently focused on a 3D game engine, <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games on in the future.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |

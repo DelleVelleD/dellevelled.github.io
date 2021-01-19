@@ -34,7 +34,11 @@ skills:
 
 #Work experience is required
 roles:
-
+ - title: Personal Projects
+   start: 2019
+   end: Ongoing
+   employer: 
+   description: 
 
 #Education is required
 education:

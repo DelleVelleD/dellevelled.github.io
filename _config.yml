@@ -34,11 +34,11 @@ skills:
 
 #Work experience is required
 roles:
- - title: Personal Projects
-   start: 2019
+ - title: Bachelor of Science (B.Sc.)
+   start: 2021
    end: Ongoing
-   employer: 
-   description: 
+   employer: Software Development
+   description: Georgia Gwinnett College
 
 #Education is required
 education:
@@ -46,10 +46,10 @@ education:
   date: 2016
   subject: Publix Supermarkets
   school:
-- level: Bachelor of Science (B.Sc.)
-  date: 2021
-  subject: Software Development
-  school: Georgia Gwinnett College
+#- level: Bachelor of Science (B.Sc.)
+#  date: 2021
+#  subject: Software Development
+#  school: Georgia Gwinnett College
 
 #This section is optional (as is the image link below)
 #coursera:
@@ -80,7 +80,7 @@ education:
 github:
  - SushiSalad/P3DPGE
  - SushiSalad/SMLabs
- - dellevelled/Rexaras5
+ - DelleVelleD/Rexaras5
  - DelleVelleD/Scheduler
  - supersand24/DungeonExplorer
  - DelleVelleD/ColoredBlocks

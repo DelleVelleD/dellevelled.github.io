@@ -94,7 +94,7 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>C++</strong>: I primarily use C++ in my current projects for everything from engine programming to AI development.
+   <strong>C++</strong>: I primarily use C++ in my current projects for everything from engine programming to AI development.<br/><br/>
    <strong>Engine Programming</strong>: A friend and I have been developing a 3D physics engine on top of the <a href="https://github.com/OneLoneCoder/olcPixelGameEngine" target="_blank">PixelGameEngine</a> in C++ in order to learn 3D topics such as rendering, lighting, shaders, and physics.<br/><br/>
    <strong>Gameplay Programming</strong>: Using Unreal Engine, a friend and I are building a networked game with a focus on fast-paced air-strafing movement and simple character abilities. Additionally, I have worked on 2D map generation in Unity using the maze backtracing algorithm when working on DungeonExplorer, a small Pac-Man like game.<br/><br/>
    <strong>AI Development</strong>: I have been working on a needs-based AI approach to game AI in my project <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras</a> in order to let AI make decisions that seem realistic.<br/><br/>

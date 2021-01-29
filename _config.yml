@@ -78,13 +78,13 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - SushiSalad/P3DPGE
- - SushiSalad/SMLabs
- - DelleVelleD/Rexaras5
- - DelleVelleD/Scheduler
+ - sushisalad/P3DPGE
+ - sushisalad/SMLabs
+ - dellevelled/Rexaras5
+ - dellevelled/Scheduler
  - supersand24/DungeonExplorer
- - DelleVelleD/ColoredBlocks
- - DelleVelleD/NieR2Blender_2.8
+ - dellevelled/ColoredBlocks
+ - dellevelled/NieR2Blender_2.8
 
 #Stackoverflow flair is optional
 #stackoverflow:

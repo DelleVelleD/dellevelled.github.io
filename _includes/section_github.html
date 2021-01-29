@@ -1,26 +1,13 @@
 {% if site.github %}
-	<div class="rounded_panel txt_lightgrey">
+	<div id="projectsBubble" class="rounded_panel txt_lightgrey">
 		<div class="top-rounded-panel grey-bg">
-			<h1>Projects</h1>
+			<h1 id="projectsHeader">Projects</h1>
 		</div>
-		<div class="content-rounded-panel" style="overflow: hidden;">
-			<div>
-				{% for project in site.github %}
-					{% assign loopindex = forloop.index | modulo: 2 %}
-					{% if loopindex == 1 %}
-					<div class="row">
-					{% endif %}
-						<div class="col-lg-6">
-							<div class="github-widget" data-repo="{{project}}"></div>
-						</div>
-					{% if loopindex == 0 %}
-					</div>
-					{% endif %}
-				{% endfor %}
-				{% if loopindex == 1 %}
-					</div>
-				{% endif %}
+		<div class="content-rounded-panel">
+			<div id="projectBlurb">
+				{{site.projects}}
 			</div>
+			<br>
 		</div>
 	</div>
 {% endif %}

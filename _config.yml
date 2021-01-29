@@ -78,7 +78,7 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github: |
- <div class="github-widget" data-repo="{{sushisalad/P3DPGE}}"></div> <br/><br/>
+ <div class="github-widget" data-repo="sushisalad/P3DPGE"></div> <br/><br/>
  sushisalad/SMLabs
  dellevelled/Rexaras5
  dellevelled/Scheduler

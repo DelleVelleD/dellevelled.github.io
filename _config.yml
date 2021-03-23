@@ -19,18 +19,22 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - C++
- - Engine Programming
- - Gameplay Programming
- - Unreal
- - Unity
- - AI Development
  - Python
  - Java
+ - Engine Programming
+ - Gameplay Programming
+ - Unreal C++
+ - Unreal Blueprints
+ - Unreal Networking
+ - Unity
+ - AI Development
  - SQL
  - MEAN Stack
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
+#NOTE(delle): i swapped the roles and education because their times were scuffed
 
 #Work experience is required
 roles:
@@ -78,12 +82,14 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github: |
- <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE C++ Engine</a><br/>
- A game engine for 3D physics and graphics using javidx9's Pixel Game Engine<br/><br/>
+ <a href="https://github.com/DelleVelleD/deshi" target="_blank">deshi C++ Game Engine</a><br/>
+ A game engine for 3D physics and graphics using building on a previous project <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE</a><br/><br/>
  <a href="https://github.com/SushiSalad/SMLabs" target="_blank">SMLabs UE4 Game</a><br/>
  An air-strafing and rope-grappling arena shooter designed in Unreal Engine 4<br/><br/>
+ <a href="https://github.com/DelleVelleD/MulitPlatForm" target="_blank">FreeRunners</a><br/>
+ A direct-connect multiplayer, platforming, racing game designed for four or less players<br/><br/>
  <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras5 AI Simulation</a><br/>
- An attempt at making Needs-Based AI for a future game<br/><br/>
+ An attempt at making Needs-Based AI for a future game idea<br/><br/>
  <a href="https://github.com/DelleVelleD/Scheduler" target="_blank">Professor Course Scheduler</a><br/>
  A class project to make a course scheduler for professors at Georgia Gwinnett College<br/><br/>
  <a href="https://github.com/supersand24/DungeonExplorer" target="_blank">Dungeon Explorer</a><br/>
@@ -106,9 +112,11 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>C++</strong>: I primarily use C++ in my current projects for everything from engine programming to AI development.<br/><br/>
-   <strong>Engine Programming</strong>: A friend and I have been developing a 3D physics engine on top of the <a href="https://github.com/OneLoneCoder/olcPixelGameEngine" target="_blank">PixelGameEngine</a> in C++ in order to learn 3D topics such as rendering, lighting, shaders, and physics.<br/><br/>
-   <strong>Gameplay Programming</strong>: Using Unreal Engine, a friend and I are building a networked game with a focus on fast-paced air-strafing movement and simple character abilities. Additionally, I have worked on 2D map generation in Unity using the maze backtracing algorithm when working on DungeonExplorer, a small Pac-Man like game.<br/><br/>
-   <strong>AI Development</strong>: I have been working on a needs-based AI approach to game AI in my project <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras</a> in order to let AI make decisions that seem realistic.<br/><br/>
    <strong>Python</strong>: I have used Python for tool development when I was helping the Nier:Automata modding community in order to build a plugin for Blender which allowed for the importing/exporting of character models and animations.<br/><br/>
    <strong>Java</strong>: I learned Java all throughout school and this was the main language I started on for personal projects. Other than website projects, all other classes I took used Java.<br/><br/>
+   <strong>Engine Programming</strong>: A friend and I have been developing a 3D physics engine in C++ in order to learn 3D topics such as rendering, lighting, shaders, and physics.<br/><br/>
+   <strong>Gameplay Programming</strong>: Using Unreal Engine, a friend and I are building a networked game with a focus on fast-paced air-strafing movement and simple character abilities. Additionally, I have worked on 2D map generation in Unity using the maze backtracing algorithm when working on DungeonExplorer, a small Pac-Man like game.<br/><br/>
+   <strong>Unreal</strong>: I have worked on two projects using Unreal Engine. One where I helped create the custom movement component and character abilities in C++. For the other, I was in charge of setting up multiplayer and the game instance, mode, etc for gameplay syncing which was mostly done in Blueprints and a bit in C++.<br/><br/>
+   <strong>Unity</strong>: I have worked on a few small game projects in Unity both for school and outside of it, where I have worked with both 2D and 3D implementations.<br/><br/>
+   <strong>AI Development</strong>: I have been working on a needs-based AI approach to game AI in my project <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras</a> in order to let AI make decisions that seem realistic.<br/><br/>
    <strong>Mean Stack</strong>: My team in my Software Development 1 course used the MEAN stack to develop a website and service for the professors at our college to register for courses they wished to take. <a href="https://ggc-scheduler.herokuapp.com/login-page" target="_blank">Scheduler</a>

@@ -16,6 +16,13 @@ primarylinks:
  - title: Email
    url: mailto:delle.caj@gmail.com
 
+
+intro: |
+  I am Christopher (Caj) Jones, a senior at Georgia Gwinnett College majoring in Computer Science with a focus in software design and a passion for game development.<br/><br/>
+  I enjoy working on the projects that deal with building gameplay or engine functionality for games, but I also have a passion for building tools to be used by designers/artists.<br/><br/>
+  I have worked on projects either alone or with a small group of friends, and I am currently focused on a 3D game engine, <a href="https://github.com/DelleVelleD/deshi" target="_blank">deshi</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games on in the future.
+
+
 #Any buzzword skills you want to include
 skills:
  - C++
@@ -31,11 +38,8 @@ skills:
  - SQL
  - MEAN Stack
 
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #NOTE(delle): i swapped the roles and education because their times were scuffed
-
 #Work experience is required
 roles:
  - title: Bachelor of Science (B.Sc.)
@@ -43,7 +47,6 @@ roles:
    end: Ongoing
    employer: Software Development
    description: Georgia Gwinnett College
-
 #Education is required
 education:
 - level: Grocery Clerk
@@ -68,26 +71,15 @@ education:
 #      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
 #      date: April 28, 2014
 
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-#speakerdeck:
-#   profileurl: https://speakerdeck.com/robhinds
-#   talks:
-#    - title: Product Management for Engineers
-#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-#      conference: API Conference, Berlin 2018
-#    - title: Agile Machine Learning - from Theory to Production
-#      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-#      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
 github: |
  <a href="https://github.com/DelleVelleD/deshi" target="_blank">deshi C++ Game Engine</a><br/>
  A game engine for 3D physics and graphics using building on a previous project <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE</a><br/><br/>
  <a href="https://github.com/SushiSalad/SMLabs" target="_blank">SMLabs UE4 Game</a><br/>
- An air-strafing and rope-grappling arena shooter designed in Unreal Engine 4<br/><br/>
+ An air-strafing and rope-grappling arena shooter designed in Unreal Engine<br/><br/>
  <a href="https://github.com/DelleVelleD/MulitPlatForm" target="_blank">FreeRunners</a><br/>
- A direct-connect multiplayer, platforming, racing game designed for four or less players<br/><br/>
+ A direct-connect multiplayer, platforming, racing game designed in Unreal Engine<br/><br/>
  <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras5 AI Simulation</a><br/>
  An attempt at making Needs-Based AI for a future game idea<br/><br/>
  <a href="https://github.com/DelleVelleD/Scheduler" target="_blank">Professor Course Scheduler</a><br/>
@@ -99,15 +91,6 @@ github: |
  <a href="https://github.com/DelleVelleD/NieR2Blender_2.8" target="_blank">NieR2Blender Fork</a><br/>
  A fork of the Nier2Blender repository where I am adding animation import support to the blender plugin<br/>
 
-#Stackoverflow flair is optional
-#stackoverflow:
-#   profileurl: https://stackoverflow.com/users/258813/rhinds
-#   flairimageurl: https://stackoverflow.com/users/flair/258813.png
-
-intro: |
-  I am Christopher (Caj) Jones, a senior at Georgia Gwinnett College majoring in Computer Science with a focus in software design and a passion for game development.<br/><br/>
-  I enjoy working on the projects that deal with building gameplay or engine functionality for games, but I also have a passion for building tools to be used by designers/artists.<br/><br/>
-  I have worked on projects either alone or with a small group of friends, and I am currently focused on a 3D game engine, <a href="https://github.com/DelleVelleD/deshi" target="_blank">deshi</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games on in the future.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |

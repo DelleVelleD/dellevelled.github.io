@@ -91,4 +91,5 @@ b, strong {
 
 .col-md-9 {
     float: inherit;
+    margin: auto;
 }

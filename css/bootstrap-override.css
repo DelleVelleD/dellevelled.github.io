@@ -83,3 +83,8 @@
 	background-image: -moz-linear-gradient(top, #bf4e30, #bf4e30);
 	border: 0px;
 }
+
+b, strong {
+    font-weight: 700;
+    color: white;
+}

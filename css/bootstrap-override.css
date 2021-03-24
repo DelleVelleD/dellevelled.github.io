@@ -88,3 +88,7 @@ b, strong {
     font-weight: 700;
     color: white;
 }
+
+.col-md-9 {
+    float: inherit;
+}

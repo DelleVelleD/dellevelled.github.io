@@ -1,7 +1,7 @@
 body {
 	background: url('../img/gray_jean.png');
 	padding-top: 40px;
-	color: rgb(24, 24, 24);
+	color: rgb(180, 180, 180);
 }
 
 html, body {
@@ -37,6 +37,10 @@ table {
 #masthead {
 	height:50px;
 	min-width: 1000px;
+}
+
+p {
+    color: rgb(180, 180, 180);
 }
 
 #header_controls {
@@ -130,7 +134,7 @@ table {
     border-top-right-radius: 5px;
 }
 .top-rounded-panel h1{
-	color: #ff3500;
+	color: #2AB574;
 	font-weight: 300;
 	padding-top: 15px;
 }
@@ -191,8 +195,8 @@ table {
 	font-weight:900;
 }
 .txt_lightgrey {
-	background-color:white;
-	border-color: #ABABAB;
+	background-color: #202020;
+	border-color: #ABABAB00;
 	border-bottom-style: solid;
 	border-bottom-width: 0px;
 	border-right-style: solid;

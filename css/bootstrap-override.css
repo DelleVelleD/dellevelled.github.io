@@ -89,7 +89,7 @@ b, strong {
     color: white;
 }
 
-.col-md-9 {
+.col-md-9.rightBorder {
     float: inherit;
     margin: auto;
 }

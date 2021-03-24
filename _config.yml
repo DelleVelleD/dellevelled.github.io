@@ -21,7 +21,7 @@ intro: |
   I am Christopher (Caj) Jones, a senior at Georgia Gwinnett College majoring in Computer Science with a focus in software design and a passion for game development.<br/><br/>
   I enjoy working on the projects that deal with building gameplay or engine functionality for games, but I also have a passion for building tools to be used by designers/artists.<br/><br/>
   I have worked on projects either alone or with a small group of friends, and I am currently focused on a 3D game engine, <a href="https://github.com/DelleVelleD/deshi" target="_blank">deshi</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games on in the future.<br/><br/>
-  <a href="https://github.com/DelleVelleD" target="_blank">GitHub</a>    Email: delle.caj@gmail.com
+  Email: delle.caj@gmail.com
 
 
 #Any buzzword skills you want to include
@@ -103,4 +103,4 @@ additionalinfo: |
    <strong>Unreal</strong>: I have worked on two projects using Unreal Engine. One where I helped create the custom movement component and character abilities in C++. For the other, I was in charge of setting up multiplayer and the game instance, mode, etc for gameplay syncing which was mostly done in Blueprints and a bit in C++.<br/><br/>
    <strong>Unity</strong>: I have worked on a few small game projects in Unity both for school and outside of it, where I have worked with both 2D and 3D implementations.<br/><br/>
    <strong>AI Development</strong>: I have been working on a needs-based AI approach to game AI in my project <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras</a> in order to let AI make decisions that seem realistic.<br/><br/>
-   <strong>Mean Stack</strong>: My team in my Software Development 1 course used the MEAN stack to develop a website and service for the professors at our college to register for courses they wished to take. <a href="https://ggc-scheduler.herokuapp.com/login-page" target="_blank">Scheduler</a>
+   <strong>Mean Stack</strong>: My team in my Software Development 1 course used the MEAN stack to develop a website and service for the professors at our college to register for courses they wished to take. <a href="https://ggc-scheduler.herokuapp.com/login-page" target="_blank">Scheduler Demo</a>

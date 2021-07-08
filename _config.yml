@@ -11,16 +11,14 @@ markdown: kramdown
 primarylinks:
  - title: GitHub
    url: https://github.com/DelleVelleD
- - title: LinkedIn
-   url: https://www.linkedin.com/in/christopher-jones-86b694178/
  - title: Email
    url: mailto:delle.caj@gmail.com
 
 
 intro: |
-  I am Christopher (Caj) Jones, a senior at Georgia Gwinnett College majoring in Computer Science with a focus in software design and a passion for game development.<br/><br/>
-  I enjoy working on the projects that deal with building gameplay or engine functionality for games, but I also have a passion for building tools to be used by designers/artists.<br/><br/>
-  I have worked on projects either alone or with a small group of friends, and I am currently focused on a 3D game engine, <a href="https://github.com/DelleVelleD/deshi" target="_blank">deshi</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games on in the future.<br/><br/>
+  I am Caj (Christopher) Jones, a graduate from Georgia Gwinnett College with a degree in Computer Science and a passion for game development.<br/><br/>
+  I enjoy working on the projects that deal with building gameplay, graphics, and engine functionality for games, but I also have a passion for building tools.<br/><br/>
+  I have worked on projects either alone or with a small group of friends, and I am currently focused on a 3D graphics and game engine, <a href="https://github.com/DelleVelleD/deshi" target="_blank">deshi</a>, that a friend and I are co-developing to learn deep engine knowledge as well as build games/tools on in the future.<br/><br/>
   Email: delle.caj@gmail.com
 
 
@@ -76,10 +74,10 @@ education:
 #List of interesting Github repo/projects to include - optional
 github: |
  <a href="https://github.com/DelleVelleD/deshi" target="_blank">deshi C++ Game Engine</a><br/>
- A game engine for 3D physics and graphics using building on a previous project <a href="https://github.com/SushiSalad/P3DPGE" target="_blank">P3DPGE</a><br/><br/>
+ A game engine for 3D physics and graphics using Vulkan and GLFW<br/><br/>
  <a href="https://github.com/SushiSalad/SMLabs" target="_blank">SMLabs UE4 Game</a><br/>
  An air-strafing and rope-grappling arena shooter designed in Unreal Engine<br/><br/>
- <a href="https://github.com/DelleVelleD/MulitPlatForm" target="_blank">FreeRunners</a><br/>
+ FreeRunners<br/>
  A direct-connect multiplayer, platforming, racing game designed in Unreal Engine<br/><br/>
  <a href="https://github.com/DelleVelleD/Rexaras5" target="_blank">Rexaras5 AI Simulation</a><br/>
  An attempt at making Needs-Based AI for a future game idea<br/><br/>
